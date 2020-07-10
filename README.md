@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🛠 I'm currently working on an experimental distributed database called [LBADD](https://github.com/tomarrell/lbadd). If you're interested in lending a hand, feel free to reach out!
+🛠 I'm currently working on an experimental distributed database called [LBADD](https://github.com/tomarrell/lbadd). If you're interested in contributing, feel free to reach out!
 
 🖋 I also maintain a blog where I write things from time to time. For example, [how I built the keyboard](https://blog.tomarrell.com/post/how_to_prevent_rsi) that I use on a daily basis. Feel free to check it out [here](https://blog.tomarrell.com/).
 
