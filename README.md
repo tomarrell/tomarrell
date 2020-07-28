@@ -1,4 +1,4 @@
-### Hi there 👋
+### G'day 👋
 
 🛠 I'm currently working on an experimental distributed database called [LBADD](https://github.com/tomarrell/lbadd). If you're interested in contributing, feel free to reach out!
 
